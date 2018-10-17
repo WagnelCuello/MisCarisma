@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mi Carisma</string>
+    <string name="title_activity_login">Iniciar Sesión</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo Electrónico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión o registrar</string>
+    <string name="action_sign_in_short">Iniciar sesión</string>
+    <string name="error_invalid_email">Esta dirección de correo es invalida</string>
+    <string name="error_invalid_password">Esta contraseña es muy corta</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="myList">Mis Lista</string>
+    <string name="weekendList">Lista Semanal</string>
+    <string name="Resusito">Libro de Cantos</string>
+    <string name="biblia">Biblia</string>
+    <string name="laudes">Laudes</string>
+    <string name="cantos">Cantos</string>
+</resources>
