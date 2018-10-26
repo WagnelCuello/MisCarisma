@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "918432091927",
+    "firebase_url": "https://mi-carisma.firebaseio.com",
+    "project_id": "mi-carisma",
+    "storage_bucket": "mi-carisma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918432091927:android:a4ff0ea3709e0251",
+        "android_client_info": {
+          "package_name": "com.yowaelectronics.app.miscantos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918432091927-n7d2l5p0pm7d86ip0amo0je30qsrcvif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yowaelectronics.app.miscantos",
+            "certificate_hash": "7fd5d4cc19b5bde7cc47dcba951f9e11eb6adb9b"
+          }
+        },
+        {
+          "client_id": "918432091927-5lrmlocrn2hfianguvofu58j71jirckd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6PhCi6QDkLMLVZT3eGqQaxPhz4ieA3FU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918432091927-5lrmlocrn2hfianguvofu58j71jirckd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
