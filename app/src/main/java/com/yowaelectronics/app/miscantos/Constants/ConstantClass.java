@@ -6,7 +6,7 @@ import android.content.DialogInterface;
 import android.view.View;
 import android.widget.RelativeLayout;
 
-public abstract class CostantClass {
+public abstract class ConstantClass {
     private static final String CLOSE_BUTTON = "CLOSE";
     private static final String NEUTRAL_BUTTON = "OK";
     private static final String NEGATIVE_BUTTON = "NO";

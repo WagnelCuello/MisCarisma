@@ -1,10 +1,12 @@
-package com.yowaelectronics.app.miscantos;
+package com.yowaelectronics.app.miscantos.Views;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.CardView;
 import android.view.View;
 import android.widget.Toast;
+
+import com.yowaelectronics.app.miscantos.R;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private CardView cvMyList, cvList, cvLaudes, cvBible, cvResucito, cvCantos;

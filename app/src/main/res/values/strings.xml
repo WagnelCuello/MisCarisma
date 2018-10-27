@@ -17,4 +17,6 @@
     <string name="biblia">Biblia</string>
     <string name="laudes">Laudes</string>
     <string name="cantos">Cantos</string>
+    <string name="nombre_completo">nombre apellido</string>
+    <string name="compartir">Compartir</string>
 </resources>
